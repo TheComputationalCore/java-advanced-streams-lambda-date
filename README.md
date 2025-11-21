@@ -25,16 +25,26 @@ The project includes **four tasks (Q1.1 – Q1.4)** focused on functional-style 
 
 ## 📁 Project Structure
 
-| File | Description | Category |
-|------|-------------|----------|
-| `src/QuestionOne.java` | Converts a list of strings to uppercase using Streams | Q1.1 |
-| `src/QuestionTwo.java` | Filters non‑empty strings from a list | Q1.2 |
-| `src/QuestionThree.java` | Filters names starting with 'A' using Stream + Lambda | Q1.3 |
-| `src/QuestionFour.java` | Calculates user age using `LocalDate` | Q1.4 |
-| `screenshots/1.png` | Screenshot for Q1.1 | Screenshot |
-| `screenshots/2.png` | Screenshot for Q1.2 | Screenshot |
-| `screenshots/3.png` | Screenshot for Q1.3 | Screenshot |
-| `screenshots/4.png` | Screenshot for Q1.4 | Screenshot |
+java-advanced-streams-lambda-date/
+│
+├── .github/
+│   └── workflows/
+│       └── java-build.yml
+│
+├── screenshots/
+│   ├── 1.png
+│   ├── 2.png
+│   ├── 3.png
+│   └── 4.png
+│
+├── src/
+│   ├── QuestionFour.java
+│   ├── QuestionOne.java
+│   ├── QuestionThree.java
+│   └── QuestionTwo.java
+│
+├── LICENSE
+└── README.md
 
 ---
 
