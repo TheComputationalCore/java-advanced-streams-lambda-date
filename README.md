@@ -24,6 +24,7 @@ The project includes **four tasks (Q1.1 – Q1.4)** focused on functional-style 
 
 ## 📁 Project Structure
 
+```
 java-advanced-streams-lambda-date/
 │
 ├── .github/
@@ -44,6 +45,7 @@ java-advanced-streams-lambda-date/
 │
 ├── LICENSE
 └── README.md
+```
 
 ---
 
