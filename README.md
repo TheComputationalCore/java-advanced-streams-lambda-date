@@ -1,6 +1,7 @@
 
 # 🚀 Java Advanced: Stream API, Lambda & Date Handling 
 
+![Java CI](https://github.com/TheComputationalCore/java-advanced-streams-lambda-date/actions/workflows/java-build.yml/badge.svg)
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
