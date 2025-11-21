@@ -67,22 +67,25 @@ Parses a birthdate (YYYY‑MM‑DD) and computes age in **years, months, days**.
 
 ## ▶️ How to Run
 
-```bash
-git clone https://github.com/TheComputationalCore/java-advanced-streams-lambda-date.git
-
-cd java-advanced-streams-lambda-date
-
-javac src/*.java
-```
-
-Run specific tasks:
-
-```bash
-java src/QuestionOne     # Q1.1
-java src/QuestionTwo     # Q1.2
-java src/QuestionThree   # Q1.3
-java src/QuestionFour    # Q1.4
-```
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/TheComputationalCore/java-advanced-streams-lambda-date.git
+   ```
+2. **Navigate to the Project Directory**:
+   ```bash
+   cd java-advanced-streams-lambda-date
+   ```
+ 3. **Compile the Java Files**:
+   ```bash  
+      javac src/*.java
+   ```
+4. **Run the Desired Program**:
+   ```bash
+   java src/QuestionOne     # Q1.1
+   java src/QuestionTwo     # Q1.2
+   java src/QuestionThree   # Q1.3
+   java src/QuestionFour    # Q1.4
+   ```
 
 ---
 
@@ -115,6 +118,4 @@ Distributed under the **MIT License**.
 
 ---
 
-## ⭐ Contribute
 
-PRs are welcome! Feel free to enhance tasks or add new functional examples.
