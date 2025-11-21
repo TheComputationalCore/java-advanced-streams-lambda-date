@@ -22,7 +22,6 @@ This repository contains **advanced Java programs** demonstrating:
 The project includes **four tasks (Q1.1 – Q1.4)** focused on functional-style Java development.
 
 ---
----
 
 ## 📁 Project Structure
 
